@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Mealer": {
+            "applicationId": "HuzsO7v7OkSX4lsdBvUDnao4IwLPOwgHmcl38d3a", 
+            "masterKey": "WAhI445YIuFEWNcrlrICYFFujvQUhFf8jNXtdCS8"
+        }, 
+        "_default": {
+            "link": "Mealer"
+        }
+    }
+}
